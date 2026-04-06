@@ -1,6 +1,6 @@
 image:
   repository: rancher/backup-restore-operator
-  tag: %TAG%
+  tag: 107.1.3+up8.1.3
 
 optionalResources:
   ## If enabled, will include kubewarden-related resources in the backups
